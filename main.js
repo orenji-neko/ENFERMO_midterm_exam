@@ -1,1 +1,0 @@
-import sumArray from "./question2";

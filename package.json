@@ -6,5 +6,12 @@
     "eslint": "^9.22.0",
     "globals": "^16.0.0"
   },
-  "type": "module"
+  "type": "module",
+  "scripts": {
+    "question2": "node ./question2.js",
+    "question3": "node ./question3.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }

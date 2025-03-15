@@ -1,0 +1,10 @@
+{
+  "name": "enfermo_midterm_exam",
+  "author": "Mark Enfermo",
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0",
+    "globals": "^16.0.0"
+  },
+  "type": "module"
+}

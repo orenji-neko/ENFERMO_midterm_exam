@@ -9,7 +9,8 @@
   "type": "module",
   "scripts": {
     "question2": "node ./question2.js",
-    "question3": "node ./question3.js"
+    "question3": "node ./question3.js",
+    "question4": "node ./question4.js"
   },
   "dependencies": {
     "express": "^4.21.2"
